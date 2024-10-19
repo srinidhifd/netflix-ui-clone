@@ -1,0 +1,21 @@
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    height: 400px;
+}
+
+.main-title{
+    font-size: 2em;
+    font-weight: bold;
+    font-family: arial;
+
+}
+
+.main-subtitle{
+    font-size: 1.2em;
+    font-family: arial;
+}
